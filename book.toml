@@ -1,0 +1,6 @@
+[book]
+authors = ["Adit Sachde"]
+language = "en"
+multilingual = false
+src = "docs"
+title = "GNC Docs"
