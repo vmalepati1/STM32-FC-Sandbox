@@ -1,2 +1,6 @@
 [workspace]
-members = ["xtask", "crates/*", "sandbox"]
+members = ["xtask", "sandbox"]
+
+targets = [
+    "thumbv7em-none-eabihf",
+]
